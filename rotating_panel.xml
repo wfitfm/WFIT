@@ -9,4 +9,11 @@
     <redirect>n</redirect>
   </panel>
 
+    <panel>
+    <number>2</number>
+    <image>https://npr.brightspotcdn.com/12/ee/02a8c4ed49fa8420a719babcf14b/ondemandbanner-copy.jpg</image>
+    <url>https://www.wfit.org/music-shows-on-demand</url>
+    <redirect>n</redirect>
+  </panel>
+
 </rotator>
