@@ -2,15 +2,8 @@
 
 <rotator>
 
-  <panel>
-    <number>1</number>
-    <image>https://npr.brightspotcdn.com/6c/10/8daeeccf4d4bbdefa23992b2dbae/voterguideapp.jpg</image>
-    <url>https://www.wfit.org/space-coast/2024-08-01/brevard-county-voter-guide-2024</url>
-    <redirect>n</redirect>
-  </panel>
-
     <panel>
-    <number>2</number>
+    <number>1</number>
     <image>https://npr.brightspotcdn.com/12/ee/02a8c4ed49fa8420a719babcf14b/ondemandbanner-copy.jpg</image>
     <url>https://www.wfit.org/music-shows-on-demand</url>
     <redirect>n</redirect>
