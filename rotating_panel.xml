@@ -9,4 +9,11 @@
     <redirect>n</redirect>
   </panel>
 
+    <panel>
+    <number>2</number>
+    <image>https://npr.brightspotcdn.com/dd/90/d15a0dcf49bc8f67830fd8474951/wfit-fiscal.jpg</image>
+    <url>https://www.wfit.org/donate</url>
+    <redirect>n</redirect>
+  </panel>
+    
 </rotator>
