@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <rotator>
-
-    <panel>
-    <number>1</number>
-    <image>https://npr.brightspotcdn.com/65/6d/e0568d054b208c875b4567901f4b/wfit-fiscal2.jpg</image>
-    <url>https://www.wfit.org/donate</url>
-    <redirect>n</redirect>
-  </panel>
     
     <panel>
-    <number>2</number>
+    <number>1</number>
     <image>https://npr.brightspotcdn.com/12/ee/02a8c4ed49fa8420a719babcf14b/ondemandbanner-copy.jpg</image>
     <url>https://www.wfit.org/music-shows-on-demand</url>
     <redirect>n</redirect>
