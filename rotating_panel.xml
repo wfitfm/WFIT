@@ -4,13 +4,6 @@
 
     <panel>
     <number>1</number>
-    <image>https://npr.brightspotcdn.com/fb/84/2be68e5c4e908ae46d0994847f23/beatles-survey.jpg</image>
-    <url>https://www.wfit.org/support-wfit/2025-07-24/wfit-listener-survey-2025</url>
-    <redirect>n</redirect>
-  </panel>
-    
-    <panel>
-    <number>2</number>
     <image>https://npr.brightspotcdn.com/12/ee/02a8c4ed49fa8420a719babcf14b/ondemandbanner-copy.jpg</image>
     <url>https://www.wfit.org/music-shows-on-demand</url>
     <redirect>n</redirect>
@@ -19,3 +12,4 @@
 
     
 </rotator>
+
