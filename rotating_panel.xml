@@ -2,15 +2,9 @@
 
 <rotator>
 
-    <panel>
-    <number>1</number>
-    <image>https://npr.brightspotcdn.com/93/41/ae311ba042a0a5e7a649b2556370/springfund26banner.png</image>
-    <url>https://www.wfit.org/donate</url>
-    <redirect>n</redirect>
-  </panel>
     
     <panel>
-    <number>2</number>
+    <number>1</number>
     <image>https://npr.brightspotcdn.com/12/ee/02a8c4ed49fa8420a719babcf14b/ondemandbanner-copy.jpg</image>
     <url>https://www.wfit.org/music-shows-on-demand</url>
     <redirect>n</redirect>
