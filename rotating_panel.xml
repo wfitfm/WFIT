@@ -2,13 +2,21 @@
 
 <rotator>
 
-    
     <panel>
     <number>1</number>
+    <image>https://npr.brightspotcdn.com/a3/1b/2a65fa834646b52977d348067aed/pastoriusappbanner.jpg</image>
+    <url>https://gleason.ludus.com/show_page.php?show_id=200541302</url>
+    <redirect>n</redirect>
+  </panel>
+    
+    <panel>
+    <number>2</number>
     <image>https://npr.brightspotcdn.com/12/ee/02a8c4ed49fa8420a719babcf14b/ondemandbanner-copy.jpg</image>
     <url>https://www.wfit.org/music-shows-on-demand</url>
     <redirect>n</redirect>
   </panel>
+
+
     
 </rotator>
 
